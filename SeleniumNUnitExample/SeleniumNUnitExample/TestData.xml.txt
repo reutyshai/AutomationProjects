@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCases>
+  <TestCase>
+    <SearchTerm>Selenium WebDriver</SearchTerm>
+    <ExpectedResult>Selenium WebDriver</ExpectedResult>
+  </TestCase>
+  <TestCase>
+    <SearchTerm>OpenAI GPT-4</SearchTerm>
+    <ExpectedResult>OpenAI GPT-4</ExpectedResult>
+  </TestCase>
+</TestCases>
